@@ -1,0 +1,16 @@
+{
+  "name": "JWT with node",
+  "version": "1.0.0",
+  "description": "JWT",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "Thawinwats Uggaravisee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1"
+  }
+}
